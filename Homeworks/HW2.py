@@ -1,6 +1,6 @@
 #Explain your work
 
-#Day3Homework
+#Day2Homework
 studentsname_list=["Jenny Black","Edward Column","John Newman","Jessica Marley","Bernard Steven"]
 print(studentsname_list)
 name=input("Please enter student name")
