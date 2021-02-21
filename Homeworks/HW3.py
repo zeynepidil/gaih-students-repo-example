@@ -1,6 +1,6 @@
 #Explain your work
 
-#Question 1
+#Day3
 def prime_first(num):
     num=int(input("Please enter an integer value"))
     def prime_second(num):  
